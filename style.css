@@ -1,0 +1,54 @@
+body{
+    font-family: sans-serif;
+    background-image: linear-gradient(to bottom right, rgb(200, 147, 235), rgb(190, 224, 252));
+}
+
+.container {
+    margin-top: 30px;
+    width: 50%;
+    height: auto;
+    padding: 10px 10px 30px;
+
+}
+
+.size{
+    width: 370px;
+}
+
+.mar{
+    margin-right: 192px;
+}
+
+.registration-form{
+	width: 800px;
+	margin: 10px auto;
+	border-radius: 9px;
+	padding: 10px 10px 30px;
+	box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border: 2px solid rebeccapurple;
+    margin-top: 0;
+}
+
+
+
+.submit-btn {
+    text-align: center;
+}
+.title{
+    font-size: medium;
+    /* text-align: center; */
+    font-weight: bold;
+    /* font-size: small; */
+    
+}
+.register{
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    background-color: rgb(220, 220, 220);
+    width: 200px;
+    height: 25px;
+    border-radius: 12px;
+    margin: auto;
+    
+}
